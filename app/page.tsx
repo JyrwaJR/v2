@@ -6,7 +6,7 @@ export default function HomePage() {
       <div className="flex flex-col  items-center mt-[2.5rem] p-3 w-full">
         <h1 className="scroll-m-20 max-w-[500px] text-5xl font-bold tracking-tight leading-[70px] text-center">
           Design Simplified For{" "}
-          <span className="p-2 bg-purple-100 rounded-[8px]">Developers</span>
+          <span className="p-2 bg-purple-500 rounded-[8px]">Developers</span>
         </h1>
         <p className="mx-auto max-w-[600px] text-gray-500 md:text-lg text-center mt-2 dark:text-gray-400">
           Seamless UI components for developers who want speed and flexibility.
