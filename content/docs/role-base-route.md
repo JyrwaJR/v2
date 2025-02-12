@@ -39,11 +39,6 @@ const routeRoles: RoleRoute[] = [
     needAuth: true,
   },
   {
-    url: "/quiz/*",
-    role: ["anonymous", "user", "admin", "superadmin"],
-    needAuth: true,
-  },
-  {
     url: "/contact/*",
     role: ["anonymous", "user", "admin", "superadmin"],
   },
@@ -76,7 +71,7 @@ export const RoleBaseRoute = ({ children }: PropsT) => {
   useEffect(() => {
     if (isAuthLoading) return;
     setIsLoading(true);
-    const timer = setTimeout(() => setIsLoading(false), 500);
+    const timer = setTimeout(() => setIsLoading(false), 1000);// delay in ms
     return () => clearTimeout(timer); // Cleanup the timer
   }, [isAuthLoading, pathName]);
 
