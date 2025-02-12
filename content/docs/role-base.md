@@ -1,5 +1,5 @@
 ---
-title: User Roles and Permissions System
+title: Roles and Permissions System
 description: A simple user roles and permissions system.
 ---
 

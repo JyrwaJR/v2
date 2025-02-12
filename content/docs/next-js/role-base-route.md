@@ -1,5 +1,5 @@
 ---
-title: "Role-Based Routing"
+title: "Role Based Routing"
 description: "Role-based routing"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Next JS Custon Middleware"
+title: "Chain Middleware"
 description: "Next JS Custon Middleware"
 ---
 
