@@ -3,7 +3,9 @@ title: "Introduction"
 description: "Learn more about the author behind the Axios configuration documentation."
 ---
 
-Hi, I’m **Harrison Jyrwa**,
+## Hi, I’m **Harrison Jyrwa**.
+
+This are some of my code snippet documentation in my portfolio.
 
 - **Email**: [jyrwaboys@gmail.com](mailto:jyrwaboys@gmail.com)
 - **GitHub**: [github.com/jyrwaJR](https://github.com/JyrwaJr)

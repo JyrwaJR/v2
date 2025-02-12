@@ -63,9 +63,9 @@ export const RoleBaseRoute = ({ children }: PropsT) => {
   const pathName = usePathname();
   const [isLoading, setIsLoading] = useState(false);
   const { user, isLoading: isAuthLoading } = useAuth();
-  const [cookies] = useCookies(["AUTH_TOKEN"]);
-  const userRoles = useMemo(() => user?.role || [], [user]);
-  const isAuthenticated = !!(user && cookies.AUTH_TOKEN);
+  const [cookies] = useCookies(["AUTH_TOKEN"]);// Get the AUTH_TOKEN cookie
+  const userRoles = useMemo(() => user?.role || [], [user]);// Get the user's roles
+  const isAuthenticated = !!(user && cookies.AUTH_TOKEN);//
 
   // Show loader during route changes or delays
   useEffect(() => {
