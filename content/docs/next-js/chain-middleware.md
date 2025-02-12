@@ -1,9 +1,7 @@
 ---
-title: "Chain Middleware"
+title: "Recursive Middleware"
 description: "Next JS Custon Middleware"
 ---
-
-# Middleware Chaining Utility for Next.js
 
 ## Overview
 
