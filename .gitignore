@@ -5,7 +5,7 @@
 # .map.ts
 .contentlayer
 .content-collections
-
+.obsidian
 # test & build
 /coverage
 /.next/
