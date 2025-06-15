@@ -1,6 +1,6 @@
 ---
 title: Kot Jingrwai
-description: A simple user roles and permissions system (Android Beta Release)
+description: Kot Jingrwai, ka application Android. **Kane ka Version Beta** ka dei ka sien jam kaba nyngkong ban pynlait paidbah bad ban ioh test bad pyndonkam ki wei. Ngi sngewbha, ban share ia kane ka app khnang ba ngin ioh ia pynbeit lang bad trei lang sha ka juh ka thong.
 ---
 
 # Kot Jingrwai - Android Beta Release
@@ -13,7 +13,7 @@ description: A simple user roles and permissions system (Android Beta Release)
 
 Ka **Kot Jingrwai Beta Version** phi lah ban install tang ha ki Android device. Download ia ka APK na ka link hapoh:
 
-- Download Android Beta APK
+- [Download Android Beta APK](/build-1749903187096.apk)
 
 **Note**: Kum ka beta release, kane ka version ka lah ban don ki jingduna ne ki jingdonkam ban nang add shuh shuh ki features . Ka jingïasoh jong phi ka donkam bha ban pynioh ia ka jingpynbha khnang ba ngin ioh ia ka app ba skhem bad lah biang pura.
 
