@@ -13,7 +13,7 @@ description: Kot Jingrwai, ka application Android. **Kane ka Version Beta** ka d
 
 Ka **Kot Jingrwai Beta Version** phi lah ban install tang ha ki Android device. Download ia ka APK na ka link hapoh:
 
-- [Download Android Beta APK](/build-1749903187096.apk)
+- [Download Android Beta APK](/kot-jingrwai.apk)
 
 **Note**: Kum ka beta release, kane ka version ka lah ban don ki jingduna ne ki jingdonkam ban nang add shuh shuh ki features . Ka jingïasoh jong phi ka donkam bha ban pynioh ia ka jingpynbha khnang ba ngin ioh ia ka app ba skhem bad lah biang pura.
 
